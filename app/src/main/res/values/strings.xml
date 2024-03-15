@@ -1,0 +1,77 @@
+<resources>
+    <string name="app_name">Relish</string>
+
+    <string name="id_app_ads">ca-app-pub-3940256099942544~3347511713</string>
+
+
+    <string name="play_console_license">play_console_license</string>
+    <string name="directory">/.PhotoEditorTemp/</string>
+    <string name="file_provider">com.relish.app.provider</string>
+    <string name="email_feedback">lovehandles2022@gmail.com</string>
+    <string name="policy_url">https://www.google.com/</string>
+    <string name="developer_account_link">Love+Handles</string>
+    <string name="app_file">PHOTO_</string>
+    <string name="from">Love Handles</string>
+
+    <string name="feedback">Feed back</string>
+    <string name="gallery">Gallery</string>
+    <string name="txt_not_detect_human">Human detection is failed. Please try again.</string>
+    <string name="please_try_again">Oops, Please try again...</string>
+    <string name="cut_inside">Cut Inside</string>
+    <string name="cut_outside">Cut Outside</string>
+    <string name="cut_photo">Select Photo</string>
+    <string name="undoing">Undoing</string>
+    <string name="use_without_internet">Use without internet.</string>
+    <string name="import_error">Error while getting image.</string>
+    <string name="import_img_warning">Please import image!!!</string>
+    <string name="importing_image">Importing image…</string>
+    <string name="redoing">Redoing</string>
+    <string name="restore">Restore</string>
+    <string name="s1">Save image</string>
+    <string name="s2">Allow Ad to store image in Picture gallery?</string>
+    <string name="s3">Accept</string>
+    <string name="s4">Decline</string>
+    <string name="s5">Create calendar event</string>
+    <string name="s6">Allow Ad to create a calendar event?</string>
+    <string name="s7">Test Ad</string>
+    <string name="saturation">Saturation</string>
+    <string name="save">SAVE</string>
+    <string name="search_menu_title">Search</string>
+    <string name="select_images">Select 2-9 photos</string>
+    <string name="select_photo">Select Photos</string>
+    <string name="settings">More app</string>
+    <string name="share_friend">Share app</string>
+    <string name="sharpen">Sharpen</string>
+    <string name="radius">Size</string>
+    <string name="rate_us">Rate us</string>
+    <string name="rating_dialog_feedback_title">Feedback</string>
+    <string name="rating_dialog_maybe_later">Maybe later</string>
+    <string name="rating_dialog_submit">Submit</string>
+    <string name="rating_promote">We are working hard for a better user experience. \10We\'d greatly appreciate if you can rate us.</string>
+    <string name="rating_text_1">Please leave us some feedback.</string>
+    <string name="rating_text_4">Thanks for your feedback.</string>
+    <string name="rating_text_5">The best we can get :)</string>
+    <string name="rating_title_1">Oh, no!</string>
+    <string name="rating_title_2">We like you too!</string>
+    <string name="brightness">Brightness</string>
+    <string name="contrast">Contrast</string>
+    <string name="vignette">vignette</string>
+    <string name="whitebalance">whitebalance</string>
+    <string name="tap_to_select">All Albums</string>
+    <string name="hue">Hue</string>
+    <string name="exposure">Exposure</string>
+    <string name="join_full_experience">Join Full Experience.</string>
+    <string name="access_to_all_features">Access to All features.</string>
+    <string name="no_ads_evermore">No ads evermore</string>
+    <string name="continue_btn">Continue</string>
+    <string name="btn_billing">One Time Purchase</string>
+    <string name="email_app_not_installed">email app not installed</string>
+    <string name="text_images">(%1$d)</string>
+    <string name="text_title_activity_album">Albums</string>
+    <string name="text_title_dialog_sort_by_album">Sort album by</string>
+    <string name="text_title_dialog_sort_by_photo">Sort photo by</string>
+
+    <string name="action_sort">sort</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="name"><![CDATA[PixelLab: Drip & Collage Maker]]></string>
+</resources>

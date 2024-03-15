@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/HP/OneDrive/Desktop/relish-master/app/src/main/res/drawable-xxxhdpi/ic_paint_black.xml" value="0.1685" />
+        <entry key="..\:/Users/HP/OneDrive/Desktop/relish-master/app/src/main/res/drawable/app_filter_blue_border.xml" value="0.1685" />
+        <entry key="..\:/Users/HP/OneDrive/Desktop/relish-master/app/src/main/res/drawable/back.xml" value="0.1015" />
+        <entry key="..\:/Users/HP/OneDrive/Desktop/relish-master/app/src/main/res/drawable/back_border.xml" value="0.1015" />
+        <entry key="..\:/Users/HP/OneDrive/Desktop/relish-master/app/src/main/res/drawable/background_card.xml" value="0.1685" />
+        <entry key="..\:/Users/HP/OneDrive/Desktop/relish-master/app/src/main/res/drawable/background_card2.xml" value="0.1685" />
+        <entry key="..\:/Users/HP/OneDrive/Desktop/relish-master/app/src/main/res/drawable/background_circle_adjust.xml" value="0.1145" />
+        <entry key="..\:/Users/HP/OneDrive/Desktop/relish-master/app/src/main/res/drawable/background_exit.xml" value="0.168" />
+        <entry key="..\:/Users/HP/OneDrive/Desktop/relish-master/app/src/main/res/drawable/background_flip.xml" value="0.1685" />
+        <entry key="..\:/Users/HP/OneDrive/Desktop/relish-master/app/src/main/res/drawable/black_border.xml" value="0.1685" />
+        <entry key="..\:/Users/HP/OneDrive/Desktop/relish-master/app/src/main/res/drawable/blue_border.xml" value="0.1145" />
+        <entry key="..\:/Users/HP/OneDrive/Desktop/relish-master/app/src/main/res/drawable/border_black_view.xml" value="0.1685" />
+        <entry key="..\:/Users/HP/OneDrive/Desktop/relish-master/app/src/main/res/drawable/border_brush.xml" value="0.1685" />
+        <entry key="..\:/Users/HP/OneDrive/Desktop/relish-master/app/src/main/res/drawable/border_view.xml" value="0.1685" />
+        <entry key="..\:/Users/HP/OneDrive/Desktop/relish-master/app/src/main/res/drawable/button_white.xml" value="0.1685" />
+        <entry key="..\:/Users/HP/OneDrive/Desktop/relish-master/app/src/main/res/drawable/cricle_white.xml" value="0.168" />
+        <entry key="..\:/Users/HP/OneDrive/Desktop/relish-master/app/src/main/res/drawable/ic_add.xml" value="0.1015" />
+        <entry key="..\:/Users/HP/OneDrive/Desktop/relish-master/app/src/main/res/drawable/ic_auto.xml" value="0.1145" />
+        <entry key="..\:/Users/HP/OneDrive/Desktop/relish-master/app/src/main/res/drawable/ic_background.xml" value="0.1685" />
+        <entry key="..\:/Users/HP/OneDrive/Desktop/relish-master/app/src/main/res/drawable/ic_background2.xml" value="0.168" />
+        <entry key="..\:/Users/HP/OneDrive/Desktop/relish-master/app/src/main/res/drawable/ic_background_eraser.xml" value="0.1145" />
+        <entry key="..\:/Users/HP/OneDrive/Desktop/relish-master/app/src/main/res/drawable/ic_baseline_sort_24.xml" value="0.168" />
+        <entry key="..\:/Users/HP/OneDrive/Desktop/relish-master/app/src/main/res/drawable/ic_blur_bg.xml" value="0.1685" />
+        <entry key="..\:/Users/HP/OneDrive/Desktop/relish-master/app/src/main/res/drawable/ic_border.xml" value="0.168" />
+        <entry key="..\:/Users/HP/OneDrive/Desktop/relish-master/app/src/main/res/drawable/ic_brush.xml" value="0.1685" />
+        <entry key="..\:/Users/HP/OneDrive/Desktop/relish-master/app/src/main/res/drawable/ic_brush_select.xml" value="0.1685" />
+        <entry key="..\:/Users/HP/OneDrive/Desktop/relish-master/app/src/main/res/drawable/ic_clean.xml" value="0.1685" />
+        <entry key="..\:/Users/HP/OneDrive/Desktop/relish-master/app/src/main/res/drawable/ic_collage2.xml" value="0.168" />
+        <entry key="..\:/Users/HP/OneDrive/Desktop/relish-master/app/src/main/res/drawable/ic_colored.xml" value="0.1685" />
+        <entry key="..\:/Users/HP/OneDrive/Desktop/relish-master/app/src/main/res/drawable/ic_done.xml" value="0.1145" />
+        <entry key="..\:/Users/HP/OneDrive/Desktop/relish-master/app/src/main/res/drawable/ic_eraser.xml" value="0.1145" />
+        <entry key="..\:/Users/HP/OneDrive/Desktop/relish-master/app/src/main/res/drawable/ic_eraser_select.xml" value="0.1145" />
+        <entry key="..\:/Users/HP/OneDrive/Desktop/relish-master/app/src/main/res/drawable/ic_extract.xml" value="0.1145" />
+        <entry key="..\:/Users/HP/OneDrive/Desktop/relish-master/app/src/main/res/drawable/ic_font.xml" value="0.1685" />
+        <entry key="..\:/Users/HP/OneDrive/Desktop/relish-master/app/src/main/res/drawable/ic_format_align_center_select.xml" value="0.1685" />
+        <entry key="..\:/Users/HP/OneDrive/Desktop/relish-master/app/src/main/res/drawable/ic_format_align_left.xml" value="0.1685" />
+        <entry key="..\:/Users/HP/OneDrive/Desktop/relish-master/app/src/main/res/drawable/ic_format_align_left_select.xml" value="0.1685" />
+        <entry key="..\:/Users/HP/OneDrive/Desktop/relish-master/app/src/main/res/drawable/ic_format_align_right_select.xml" value="0.1685" />
+        <entry key="..\:/Users/HP/OneDrive/Desktop/relish-master/app/src/main/res/drawable/ic_keyboard.xml" value="0.1685" />
+        <entry key="..\:/Users/HP/OneDrive/Desktop/relish-master/app/src/main/res/drawable/ic_minus.xml" value="0.1015" />
+        <entry key="..\:/Users/HP/OneDrive/Desktop/relish-master/app/src/main/res/drawable/ic_mosaic.xml" value="0.1685" />
+        <entry key="..\:/Users/HP/OneDrive/Desktop/relish-master/app/src/main/res/drawable/ic_neon.xml" value="0.1685" />
+        <entry key="..\:/Users/HP/OneDrive/Desktop/relish-master/app/src/main/res/drawable/ic_opacity.xml" value="0.1685" />
+        <entry key="..\:/Users/HP/OneDrive/Desktop/relish-master/app/src/main/res/drawable/ic_opacity_select.xml" value="0.121" />
+        <entry key="..\:/Users/HP/OneDrive/Desktop/relish-master/app/src/main/res/drawable/ic_paint.xml" value="0.1685" />
+        <entry key="..\:/Users/HP/OneDrive/Desktop/relish-master/app/src/main/res/drawable/ic_palette.xml" value="0.1685" />
+        <entry key="..\:/Users/HP/OneDrive/Desktop/relish-master/app/src/main/res/drawable/ic_replce.xml" value="0.168" />
+        <entry key="..\:/Users/HP/OneDrive/Desktop/relish-master/app/src/main/res/drawable/ic_rotate_left.xml" value="0.1145" />
+        <entry key="..\:/Users/HP/OneDrive/Desktop/relish-master/app/src/main/res/drawable/ic_round_check_color.xml" value="0.1685" />
+        <entry key="..\:/Users/HP/OneDrive/Desktop/relish-master/app/src/main/res/drawable/ic_round_fullscreen_exit.xml" value="0.1685" />
+        <entry key="..\:/Users/HP/OneDrive/Desktop/relish-master/app/src/main/res/drawable/ic_round_zoom_in.xml" value="0.1145" />
+        <entry key="..\:/Users/HP/OneDrive/Desktop/relish-master/app/src/main/res/drawable/ic_sketch_bg.xml" value="0.1685" />
+        <entry key="..\:/Users/HP/OneDrive/Desktop/relish-master/app/src/main/res/drawable/ic_sketck_sq.xml" value="0.1685" />
+        <entry key="..\:/Users/HP/OneDrive/Desktop/relish-master/app/src/main/res/drawable/ic_splash_bg.xml" value="0.1685" />
+        <entry key="..\:/Users/HP/OneDrive/Desktop/relish-master/app/src/main/res/drawable/ic_splash_icon.xml" value="0.1685" />
+        <entry key="..\:/Users/HP/OneDrive/Desktop/relish-master/app/src/main/res/drawable/ic_splash_sq.xml" value="0.1685" />
+        <entry key="..\:/Users/HP/OneDrive/Desktop/relish-master/app/src/main/res/drawable/line.xml" value="0.1685" />
+        <entry key="..\:/Users/HP/OneDrive/Desktop/relish-master/app/src/main/res/drawable/line_fake.xml" value="0.1685" />
+        <entry key="..\:/Users/HP/OneDrive/Desktop/relish-master/app/src/main/res/drawable/progress_drawable.xml" value="0.1685" />
+        <entry key="..\:/Users/HP/OneDrive/Desktop/relish-master/app/src/main/res/drawable/progress_drawable_filter.xml" value="0.1145" />
+        <entry key="..\:/Users/HP/OneDrive/Desktop/relish-master/app/src/main/res/drawable/progress_thumb.xml" value="0.1685" />
+        <entry key="..\:/Users/HP/OneDrive/Desktop/relish-master/app/src/main/res/drawable/progress_thumb_filter.xml" value="0.1145" />
+        <entry key="..\:/Users/HP/OneDrive/Desktop/relish-master/app/src/main/res/layout/activity_grid_picker.xml" value="0.25" />
+        <entry key="..\:/Users/HP/OneDrive/Desktop/relish-master/app/src/main/res/layout/activity_polish_collage.xml" value="0.25" />
+        <entry key="..\:/Users/HP/OneDrive/Desktop/relish-master/app/src/main/res/layout/activity_polish_editor.xml" value="0.12" />
+        <entry key="..\:/Users/HP/OneDrive/Desktop/relish-master/app/src/main/res/layout/activity_polish_eraser.xml" value="0.2" />
+        <entry key="..\:/Users/HP/OneDrive/Desktop/relish-master/app/src/main/res/layout/activity_polish_home.xml" value="0.11302083333333333" />
+        <entry key="..\:/Users/HP/OneDrive/Desktop/relish-master/app/src/main/res/layout/activity_share_photo.xml" value="0.25" />
+        <entry key="..\:/Users/HP/OneDrive/Desktop/relish-master/app/src/main/res/layout/activity_spliter.xml" value="0.264" />
+        <entry key="..\:/Users/HP/OneDrive/Desktop/relish-master/app/src/main/res/layout/dialog_exit.xml" value="0.25" />
+        <entry key="..\:/Users/HP/OneDrive/Desktop/relish-master/app/src/main/res/layout/dialog_split_number.xml" value="0.176" />
+        <entry key="..\:/Users/HP/OneDrive/Desktop/relish-master/app/src/main/res/layout/fragment_add_text.xml" value="0.25" />
+        <entry key="..\:/Users/HP/OneDrive/Desktop/relish-master/app/src/main/res/layout/fragment_frame.xml" value="0.25" />
+        <entry key="..\:/Users/HP/OneDrive/Desktop/relish-master/app/src/main/res/layout/fragment_mirrors.xml" value="0.25" />
+        <entry key="..\:/Users/HP/OneDrive/Desktop/relish-master/app/src/main/res/layout/fragment_mosaic.xml" value="0.10989583333333333" />
+        <entry key="..\:/Users/HP/OneDrive/Desktop/relish-master/app/src/main/res/layout/fragment_ratio.xml" value="0.25" />
+        <entry key="..\:/Users/HP/OneDrive/Desktop/relish-master/app/src/main/res/layout/fragment_square.xml" value="0.25" />
+        <entry key="..\:/Users/HP/OneDrive/Desktop/relish-master/app/src/main/res/layout/grid_layout.xml" value="0.2" />
+        <entry key="..\:/Users/HP/OneDrive/Desktop/relish-master/app/src/main/res/layout/item_album_selected.xml" value="0.72" />
+        <entry key="..\:/Users/HP/OneDrive/Desktop/relish-master/app/src/main/res/layout/item_background.xml" value="0.25" />
+        <entry key="..\:/Users/HP/OneDrive/Desktop/relish-master/app/src/main/res/layout/item_brush.xml" value="0.25" />
+        <entry key="..\:/Users/HP/OneDrive/Desktop/relish-master/app/src/main/res/layout/item_collage_tool.xml" value="0.25" />
+        <entry key="..\:/Users/HP/OneDrive/Desktop/relish-master/app/src/main/res/layout/item_color_drip.xml" value="0.25" />
+        <entry key="..\:/Users/HP/OneDrive/Desktop/relish-master/app/src/main/res/layout/item_font.xml" value="0.25" />
+        <entry key="..\:/Users/HP/OneDrive/Desktop/relish-master/app/src/main/res/layout/item_mirror.xml" value="0.25" />
+        <entry key="..\:/Users/HP/OneDrive/Desktop/relish-master/app/src/main/res/layout/item_neon.xml" value="0.25" />
+        <entry key="..\:/Users/HP/OneDrive/Desktop/relish-master/app/src/main/res/layout/item_paint.xml" value="0.25" />
+        <entry key="..\:/Users/HP/OneDrive/Desktop/relish-master/app/src/main/res/layout/layout_art.xml" value="0.25" />
+        <entry key="..\:/Users/HP/OneDrive/Desktop/relish-master/app/src/main/res/layout/layout_blur.xml" value="0.25" />
+        <entry key="..\:/Users/HP/OneDrive/Desktop/relish-master/app/src/main/res/layout/layout_drip.xml" value="0.25" />
+        <entry key="..\:/Users/HP/OneDrive/Desktop/relish-master/app/src/main/res/layout/layout_motion.xml" value="0.25" />
+        <entry key="..\:/Users/HP/OneDrive/Desktop/relish-master/app/src/main/res/layout/layout_neon.xml" value="0.136" />
+        <entry key="..\:/Users/HP/OneDrive/Desktop/relish-master/app/src/main/res/layout/layout_pixlab.xml" value="0.25" />
+        <entry key="..\:/Users/HP/OneDrive/Desktop/relish-master/app/src/main/res/layout/layout_splash.xml" value="0.25" />
+        <entry key="..\:/Users/HP/OneDrive/Desktop/relish-master/app/src/main/res/layout/layout_wing.xml" value="0.25" />
+        <entry key="..\:/Users/HP/OneDrive/Desktop/relish-master/app/src/main/res/layout/list_sticker.xml" value="0.25" />
+        <entry key="..\:/Users/HP/OneDrive/Desktop/relish-master/app/src/main/res/menu/activity_pick_image.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

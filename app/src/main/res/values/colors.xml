@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="yellow">#FFA92F</color>
+    <color name="mainColor">#574FFF</color>
+    <color name="colorAccent">@color/mainColor</color>
+    <color name="colorPrimary">@color/mainColor</color>
+    <color name="colorPrimaryDark">@color/mainColor</color>
+    <color name="colorText">#ffffff</color>
+    <color name="dark_grey">#4a4a4a</color>
+    <color name="dark_grey_more">#232323</color>
+    <color name="BackgroundCardColor">#21242C</color>
+    <color name="BackgroundColor">#21242C</color>
+    <color name="TabColor">#0b0b0b</color>
+    <color name="tintCol">#959595</color>
+    <color name="grayText">#8e8e8e</color>
+    <color name="ad_attribution_background_color">#196aed</color>
+    <color name="ad_background_color">#ffffff</color>
+    <color name="ad_body_text_color">#232222</color>
+    <color name="ad_heading_color">#000000</color>
+    <color name="cropItem">#8e8e8e</color>
+    <color name="purple">#574FFF</color>
+    <color name="light_purple">#AFACE5</color>
+    <color name="gray">#77838F</color>
+</resources>

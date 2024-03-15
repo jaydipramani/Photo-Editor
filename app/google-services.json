@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "86191436748",
+    "project_id": "relish-2b113",
+    "storage_bucket": "relish-2b113.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:86191436748:android:31025bae5eacae950f2369",
+        "android_client_info": {
+          "package_name": "com.relish.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "86191436748-k63irn5giaorpgseieb5cj1kr9428eqm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.relish.app",
+            "certificate_hash": "5b47b5c78627ac0c34d51fb77d33fcdd46fc1a6c"
+          }
+        },
+        {
+          "client_id": "86191436748-pu9mblk7l65im2mo955fokfdiif9j77h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZBjGaJ7afp_Xvyo-v2IPkLvp5bLmP6HQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "86191436748-pu9mblk7l65im2mo955fokfdiif9j77h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

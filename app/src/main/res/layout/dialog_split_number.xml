@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <androidx.appcompat.widget.AppCompatTextView
+        android:id="@+id/title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/font"
+        android:padding="10dp"
+        android:text="Select Column &amp; Row"
+        android:textColor="@color/black"
+        android:textSize="17sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <androidx.appcompat.widget.AppCompatTextView
+        android:id="@+id/textColumn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:fontFamily="@font/font"
+        android:padding="10dp"
+        android:text="Column"
+        android:textColor="@color/black"
+        android:textSize="17sp"
+        app:layout_constraintEnd_toEndOf="@+id/plushColumn"
+        app:layout_constraintStart_toStartOf="@id/minusColumn"
+        app:layout_constraintTop_toBottomOf="@+id/title" />
+
+    <androidx.appcompat.widget.AppCompatTextView
+        android:id="@+id/textRow"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:fontFamily="@font/font"
+        android:padding="10dp"
+        android:text="Row"
+        android:textColor="@color/black"
+        android:textSize="17sp"
+        app:layout_constraintEnd_toEndOf="@id/plushRow"
+        app:layout_constraintStart_toStartOf="@+id/minusRow"
+        app:layout_constraintTop_toBottomOf="@+id/title" />
+
+    <androidx.appcompat.widget.AppCompatImageView
+        android:id="@+id/minusColumn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:layout_marginStart="15dp"
+        android:src="@drawable/ic_minus"
+        app:layout_constraintBottom_toBottomOf="@+id/textColumnNumber"
+        app:layout_constraintEnd_toStartOf="@+id/textColumnNumber"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/textColumnNumber" />
+
+    <androidx.appcompat.widget.AppCompatTextView
+        android:id="@+id/textColumnNumber"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:fontFamily="@font/font"
+        android:paddingHorizontal="20dp"
+        android:paddingVertical="10dp"
+        android:text="3"
+        android:textColor="@color/black"
+        app:layout_constraintEnd_toStartOf="@+id/plushColumn"
+        app:layout_constraintStart_toEndOf="@+id/minusColumn"
+        app:layout_constraintTop_toBottomOf="@+id/textRow" />
+
+    <androidx.appcompat.widget.AppCompatImageView
+        android:id="@+id/plushColumn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:src="@drawable/ic_add"
+        android:layout_marginEnd="15dp"
+        app:layout_constraintBottom_toBottomOf="@+id/textColumnNumber"
+        app:layout_constraintEnd_toStartOf="@+id/minusRow"
+        app:layout_constraintStart_toEndOf="@+id/textColumnNumber"
+        app:layout_constraintTop_toTopOf="@+id/textColumnNumber" />
+
+    <androidx.appcompat.widget.AppCompatImageView
+        android:id="@+id/minusRow"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:src="@drawable/ic_minus"
+        android:layout_marginStart="15dp"
+        app:layout_constraintBottom_toBottomOf="@+id/textRowNumber"
+        app:layout_constraintEnd_toStartOf="@+id/textRowNumber"
+        app:layout_constraintStart_toEndOf="@+id/plushColumn"
+        app:layout_constraintTop_toTopOf="@+id/textRowNumber" />
+
+    <androidx.appcompat.widget.AppCompatTextView
+        android:id="@+id/textRowNumber"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:fontFamily="@font/font"
+        android:paddingHorizontal="20dp"
+        android:paddingVertical="10dp"
+        android:text="3"
+        android:textColor="@color/black"
+        app:layout_constraintEnd_toStartOf="@+id/plushRow"
+        app:layout_constraintStart_toEndOf="@+id/minusRow"
+        app:layout_constraintTop_toBottomOf="@+id/textRow" />
+
+    <androidx.appcompat.widget.AppCompatImageView
+        android:id="@+id/plushRow"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="15dp"
+        android:padding="10dp"
+        android:src="@drawable/ic_add"
+        app:layout_constraintBottom_toBottomOf="@+id/textRowNumber"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/textRowNumber"
+        app:layout_constraintTop_toTopOf="@+id/textRowNumber" />
+
+
+    <androidx.appcompat.widget.AppCompatTextView
+        android:id="@+id/btnOk"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:layout_marginBottom="15dp"
+        android:background="@drawable/button_white"
+        android:backgroundTint="@color/BackgroundCardColor"
+        android:paddingHorizontal="50dp"
+        android:paddingVertical="10dp"
+        android:text="Ok"
+        android:textColor="@color/white"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textRowNumber" />
+</androidx.constraintlayout.widget.ConstraintLayout>
